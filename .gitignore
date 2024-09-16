@@ -42,7 +42,10 @@ msbuild.log
 msbuild.err
 msbuild.wrn
 
-# SQLite
+# Customize
+## appsettings local
+appsettings.Development.json
+## SQLite
 *.db
 *.db-shm
 *.db-wal
